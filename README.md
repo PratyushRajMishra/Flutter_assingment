@@ -25,3 +25,7 @@ There is a video to help you access this application.
 ## Video
 
 [Watch the video](https://github.com/user-attachments/assets/8c038d45-c5fe-41bf-9846-0ecfa4342052)
+
+## APK file
+https://drive.google.com/file/d/1PjcKqG7H_yTkdSUlfh-6b-Q4U77nxk58/view?usp=sharing
+
